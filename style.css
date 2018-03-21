@@ -1,0 +1,16 @@
+body{
+    background: url(koala3.jpg);
+    repeat: no-repeat;
+    color: skyblue; 
+    
+}
+
+img{
+    border: 2px solid black;
+}
+
+h1, h2 {
+    background:grey;
+    padding: 10px;
+}
+
